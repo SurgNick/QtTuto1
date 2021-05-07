@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HelloWorld.qml</file>
+        <file>GridHello.qml</file>
+        <file>MainHelloWorld.qml</file>
+    </qresource>
+</RCC>
